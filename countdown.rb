@@ -4,7 +4,8 @@ seconds = 10
 
 def countdown
   
-  while seconds
+  while seconds > 0 
+  
   
   puts
   
