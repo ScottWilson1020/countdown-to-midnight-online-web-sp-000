@@ -1,8 +1,10 @@
 #write your code here
 
-seconds = 0 
+seconds = 10 
 
 def countdown
+  
+  while seconds
   
   puts
   
